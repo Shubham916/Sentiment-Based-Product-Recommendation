@@ -50,5 +50,4 @@ This project is licensed under the MIT License.
 
 For any inquiries or feedback, please contact Shubham.
 
-    ```vbnet
-    Feel free to customize it further based on your specific project details, such as adding more detailed instructions, examples, or screenshots.
+Feel free to customize it further based on your specific project details, such as adding more detailed instructions, examples, or screenshots.
